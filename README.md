@@ -1,6 +1,3 @@
-# Projeto_Grupo_Credito_ML
-Projeto em grupo do curso Let's code de ML com dataset de crédito.
-
 # Projeto ML - Trabalho Let's Code
 Repositório criado para entrega do projeto do módulo ML 1, em grupo.
 
