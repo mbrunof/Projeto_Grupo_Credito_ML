@@ -27,7 +27,7 @@ Ferramentas utilizadas para esse trabalho.
 * **Debora Kassem Buturi**              - *Desenvolvimento* 
 * **Helen Cristina de Acypreste Rocha** - *Desenvolvimento* 
 * **Marcus Bruno** - *Desenvolimento*   - [mbrunof](https://github.com/mbrunof)
-* **Richard Raphael Banak**             - *Desenvolvimento* 
+* **Richard Raphael Banak**             - [Richardbnk](https://github.com/Richardbnk)
 
 ## 📄 Licença
 
